@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pyc
+venv/
+.pytest_cache/
+gcp_service_account_key.json # Se você baixar o arquivo JSON da Service Account para a raiz.
+/tmp/* # Ignorar arquivos temporários gerados localmente se você testar.
+credentials.json # Ignorar arquivo de credenciais gerado localmente.
