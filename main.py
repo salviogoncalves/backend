@@ -49,7 +49,7 @@ origins = [
     #"http://localhost:5173",  # Exemplo para um frontend Vue/Vite rodando localmente
     #"http://127.0.0.1:3000",  # Outra forma comum de localhost
     # ADICIONE AQUI O DOMÍNIO DO SEU FRONTEND EM PRODUÇÃO (ex: "https://seufrotend.com")
-     "https://f-brica-de-narrativas-ai-720744614187.us-west1.run.app/",
+     "https://f-brica-de-narrativas-ai-720744614187.us-west1.run.app",
     # Você também pode permitir todas as origens (NÃO RECOMENDADO PARA PRODUÇÃO)
     # mas útil para depuração inicial. Descomente APENAS para testes rápidos:
     # "*"
